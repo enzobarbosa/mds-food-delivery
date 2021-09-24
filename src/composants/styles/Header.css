@@ -1,0 +1,27 @@
+.header {
+    box-shadow: 0 0.5rem 1.2rem rgb(0 0 0 / 10%);
+}
+
+.ul {
+    
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+    overflow: hidden;
+  }
+  
+  .li {
+    float: left;
+  }
+  
+  Link {
+    display: block;
+    color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  Link :hover {
+    background-color: white;
+  }
